@@ -20,7 +20,5 @@
       "flags": {}
     }
   ],
-  "esmodules": [
-    "scripts/module.js"
-  ]
+  "esmodules": ["scripts/module.js"]
 }
