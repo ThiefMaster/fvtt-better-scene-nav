@@ -1,5 +1,7 @@
-![](https://img.shields.io/badge/Foundry-v13-informational)
-![Latest Release Download Count](https://img.shields.io/github/downloads/ThiefMaster/fvtt-better-scene-nav/latest/module.zip)
+![](https://img.shields.io/badge/Foundry-v13-informational?style=for-the-badge)
+![](https://img.shields.io/github/downloads/ThiefMaster/fvtt-better-scene-nav/module.zip?displayAssetName=false&style=for-the-badge)
+[![](https://img.shields.io/github/v/release/ThiefMaster/fvtt-better-scene-nav?style=for-the-badge)](https://github.com/ThiefMaster/fvtt-better-scene-nav/releases/latest)
+
 
 # Better Scene Nav
 
