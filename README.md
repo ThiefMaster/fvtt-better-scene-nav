@@ -13,6 +13,12 @@ so you quickly see which scenes are nearby.
 
 ## Changelog
 
+### v1.0.1
+
+- Foundry 14 compatibility
+- Add the currently-viewed scene back to the expandable list as well
+- Keep the correct scene order when multiple scenes have the same navIndex
+
 ### v1.0.0
 
 - Initial release
